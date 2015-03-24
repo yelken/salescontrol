@@ -1,0 +1,1 @@
+Hosting com a finalidade de acompanhamento do projeto online e facilidade de integração com outros desenvolvedores caso venha a ser desenvolvido.
